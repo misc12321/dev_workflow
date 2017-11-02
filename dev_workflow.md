@@ -2,12 +2,12 @@
 *   Image of Jira ticket:
 *   Review and clarify the ticket requirements 
 
-## Developer Creates Branch For Ticket
+## Create Branch For Ticket
 *   From the 'initial_launch' or freshest possible branch, create new branch for the specific ticket using the ticket ID as branch name. (i.e PS-1). 
 *   `git checkout -b PS-1` or whichever number the ticket is*
 *   Once branch is created, Jira will be triggered to set status from `To Do` to `In Progress`
 
-## Developer Works on Ticket
+##  Work on Ticket
 *   Make sure to follow all guidelines for the project directory structure and best coding practices
 *   Good commit practices include frequent commits tied to one task completed to help track changes throughout branch
 *   Commit style: Using VIM, begin each commit with the branch name, time and then descritpion of task completed. `PS-1 #time 30m Changed Header Logo to Bold` 
@@ -18,7 +18,7 @@
     3. `git push origin PS-1`
 *   Repeat this process until ticket is solved
 
-## Developer Submits Ticket
+##  Submits Ticket
 *   Create pull request 
 *   Review code with team during SCRUM meeting
 *   If Accepted, ticket is merged into the branch
