@@ -1,4 +1,4 @@
-##Developer Gets Assigned Ticket##
+## Developer Gets Assigned Ticket
 *   Image of Jira ticket:
 *   Review and clarify the ticket requirements 
 
