@@ -39,3 +39,4 @@
 *   Once branch is up to date, create new working branch with same ticket name/id
 *   `git checkout -b PS-1`
 *   Repeat steps above.
+* rinse and repeat
